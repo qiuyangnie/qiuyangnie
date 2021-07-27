@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Qiuyang
+- 👋 Hi, I’m Qiūyáng
 - 👀 I’m interested in functional programming, user-centred design, and human-computer interaction.
 - 🌱 I’m currently building a [stock portfolio tracker](https://apps.apple.com/us/app/riverfort/id1561144335).
 - 📫 You can reach me at <qyang.nie@gmail.com>
